@@ -4,7 +4,7 @@
     <html>
       <head>
         <meta charset="utf-8"/>
-        <title>Math</title>
+        <title>Circles</title>
       </head>
       <body>
         <h4 id="author" title="GossJS" style="display:none">Карпович Владимир</h4>
